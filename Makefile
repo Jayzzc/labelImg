@@ -1,5 +1,5 @@
 # ex: set ts=8 noet:
-
+#加着玩而已
 all: qt4
 
 test: testpy2
